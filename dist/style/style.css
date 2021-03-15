@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+.jumbotron{
+    background-color: #add8e6;
+}
+.engineer{
+background-color: #acddde;
+}
+.intern{
+background-color: #e1f8dc;
+}
+.manager{
+    background-color: #f7d8ba;
+}
